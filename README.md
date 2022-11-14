@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anse Min</h1>
 <h3 align="center">A passionate AI developer from Manchester</h3>
 
-- 🌱 I’m currently learning **Microsoft AI School**
+- 🌱 I’m currently learning coding in **Microsoft AI School**
 
 - 📫 How to reach me **ansemin1025@gmail.com**
 
