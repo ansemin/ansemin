@@ -5,11 +5,10 @@
 
 - 📫 How to reach me **ansemin1025@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/anse-min-49873b196](https://www.linkedin.com/in/anse-min-49873b196](https://www.linkedin.com/in/anse-min-robotics-engineer/)
-
+- 📄 Know about my experiences [[https://www.linkedin.com/in/anse-min-robotics-engineer]]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anse-min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anse-min" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anse-min-robotics-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anse-min" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
