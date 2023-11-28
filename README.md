@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ansemin1025@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anse-min-49873b196](https://www.linkedin.com/in/anse-min-49873b196)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/anse-min-49873b196](https://www.linkedin.com/in/anse-min-49873b196](https://www.linkedin.com/in/anse-min-robotics-engineer/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
